@@ -19,3 +19,18 @@ Purposeful. Honest. Likes to achieve results enjoy the work done.I have an activ
 * CSS/SASS
 * JavaScript (Basic)
 * Git
+
+### Code example:
+This code does not execute properly. Try to figure out why.
+**Before:**
+```
+function multiply(a, b){
+  a * b
+}
+```
+**After:**
+```
+function multiply(a, b){
+  return a * b
+}
+```
