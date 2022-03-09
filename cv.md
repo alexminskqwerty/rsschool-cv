@@ -13,3 +13,9 @@
 
 > Ready to quickly learn how to work with any new direction and technology.
 Purposeful. Honest. Likes to achieve results enjoy the work done.I have an active life position. Easily connect with new people.
+
+### Skills:
+* HTML
+* CSS/SASS
+* JavaScript (Basic)
+* Git
