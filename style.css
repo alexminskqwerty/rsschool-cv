@@ -1,3 +1,18 @@
+@font-face {
+	font-family: 'AUTHENTIC Sans 90'; 
+    font-style: normal;
+	font-weight: normal;
+	src: local('AUTHENTIC Sans 90')
+		url(/fonts/AUTHENTICSans-90.otf); 
+}
+
+@font-face {
+	font-family: 'AUTHENTIC Sans 130'; 
+    font-style: normal;
+	font-weight: bold;
+	src: local('AUTHENTIC Sans 130')
+		url(/fonts/AUTHENTICSans-130.otf); 
+}
 body {
     color : #8f8f8f;
     font: 12px 'AUTHENTIC Sans', sans-serif;
