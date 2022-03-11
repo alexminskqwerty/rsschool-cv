@@ -1,12 +1,27 @@
 body {
     color : #8f8f8f;
     font: 12px 'AUTHENTIC Sans', sans-serif;
-    background-color: #f8f8f8;
+    background-color: #D5E6EC;
+    
+    /*background-image:url(../images/images2.jpg) no-repeat;*/
+}
+
+p {
+    width: 500px;
+    height: 746px;
+
+    background-color: #DC5E35;
 }
 
 #wrapper {
-	max-width: 595px;
-    max-height: 842px;
+	width: 595px;
+    height: 842px;
 	margin: auto;
+    background-color: #ffffff;
+    
 }
 
+
+header a {
+	text-decoration: none;
+}
