@@ -1,5 +1,3 @@
-[rsschool-cv](https://alexminskqwerty.github.io/rsschool-cv/cv "My CV on GitHub Pages")
-
 # Alex Kardash
 ##### Junior Frontend Developer
 
@@ -45,3 +43,4 @@ function multiply(a, b){
 * Belorussian - Native
 * Russian - Native
 * English - Basic
+
